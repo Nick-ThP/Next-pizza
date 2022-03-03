@@ -8,7 +8,8 @@ const PizzaList = () => {
         <p className={styles.desc}>
             This pizza is very very good. It is in fact so good that you would want
             another one when you are done eating it. This is how good this pizza is.
-            Therefore you should consider buying 2 pizza (or is it pizzas?).
+            Therefore you should consider buying 2. I am serious you need to buy 2
+            because this business is in ruins. Please think of my family.
         </p>
         <div className={styles.wrapper}>
             <PizzaCard />
